@@ -1,4 +1,4 @@
 # TLPT
 Time-based Label-Preserving Transform for Lip Reading
 
-Demo code will be available soon
+Run TLPT_CFI_D1_Demo.m
